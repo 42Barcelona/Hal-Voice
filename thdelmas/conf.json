@@ -1,0 +1,10 @@
+{
+	"login": "thdelmas",
+	"entrances": [
+		{ "type": "file", "content": "thdelmas_bye_1.mp3" }
+	],
+	"exits": [
+		{ "day": "Monday", "from": "10:42", "to": "10:43", "type": "file", "content": "mia_exit_1.mp3" },
+		{ "type": "text", "content": "Adéu !", "lang": "es" }
+	]
+}

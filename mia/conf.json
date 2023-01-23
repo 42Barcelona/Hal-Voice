@@ -1,0 +1,11 @@
+{
+	"login": "mia",
+	"entrances": [
+		{ "from": "11:42", "to": "13:43", "type": "file", "content": "paper_planes.mp3" },
+		{ "type": "text", "content": "Hola Mía !", "lang": "es" }
+	],
+	"exits": [
+		{ "day": "Monday", "from": "10:42", "to": "10:43", "type": "file", "content": "mia_exit_1.mp3" },
+		{ "type": "text", "content": "Adéu !", "lang": "es" }
+	]
+}
